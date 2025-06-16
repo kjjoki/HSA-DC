@@ -3,8 +3,6 @@
 FF = gfortran
 FFLAGS = -fbounds-check -Wall -pg
 OPEN =  
-#OPEN = -fopenmp
-#FFLASGS =  -fopenmp -fbounds-check -Wall -pg
 
 all: execution
 

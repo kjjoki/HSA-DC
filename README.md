@@ -14,7 +14,9 @@ The software is free for academic teaching and research purposes but we ask you 
    Makefile             - Makefile       
 
    startpoints5.txt     - Random starting points from the boxes [-5,5]
+   
    startpoints10.txt    - Random starting points from the boxes [-10,10]
+   
    startpoints100.txt   - Random starting points from the boxes [-100,100]
    
    
